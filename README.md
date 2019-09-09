@@ -1,3 +1,5 @@
+Tools / Technologies used: Python, Sklearn (Machine Learning Model), HTML, and CSS
+
 
 # Spam or Ham
 Using Machine Learning to create a model to detect spam text messages
